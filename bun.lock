@@ -1,0 +1,13 @@
+{
+  "lockfileVersion": 0,
+  "workspaces": {
+    "": {
+      "dependencies": {
+        "zod": "1.0.0",
+      },
+    },
+  },
+  "packages": {
+    "zod": ["zod@1.0.0", "", {}, "sha512-l3q5N6NH/f50cfCdHz+5R1kYcVMv6bRqCqlzMmt4SGL5A/ATKa4zv5jxdveHxvwP4kyRMZTBhzbnV8aucKKI7g=="],
+  }
+}

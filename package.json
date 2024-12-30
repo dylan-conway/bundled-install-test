@@ -1,0 +1,10 @@
+{
+    "name": "bundled-install-test",
+    "version": "1.0.0",
+    "dependencies": {
+        "zod": "1.0.0"
+    },
+    "bundledDependencies": [
+        "zod"
+    ]
+}
